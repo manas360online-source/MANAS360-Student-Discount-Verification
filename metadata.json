@@ -1,0 +1,7 @@
+{
+  "name": "MANAS360 Student Discount Verification",
+  "description": "A sleek, professional verification portal for students to claim institutional discounts on mental health therapy via QR code scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
